@@ -5,7 +5,7 @@
   <tr>
      <td><img src="https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/e288b024-1f8f-41c6-8a5f-ad28fc05a718" width=620 height=620></td>
     
-    <td><img src="[https://user-images.githubusercontent.com/77199373/206803824-219c9b4d-2369-4ef0-97f0-253a06ec9eef.jpg](https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/f41a14a4-9536-4652-8047-977aedb8fc00)" width=300 height=600></td>
+    <td><img src="https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/f41a14a4-9536-4652-8047-977aedb8fc00" width=300 height=600></td>
 
 
   </tr>
