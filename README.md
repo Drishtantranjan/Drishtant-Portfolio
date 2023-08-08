@@ -1,17 +1,19 @@
 <h1 align="center" id="title">Portfolio Website</h1>
+![Untitled_design__23_-removebg-preview](https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/1a35930f-55ec-4836-a8c9-316e093d5f08)
+
 
 
 <table>
   <tr>
      <td><img src="https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/e288b024-1f8f-41c6-8a5f-ad28fc05a718" width=620 height=620></td>
-    <td><img src="https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/f41a14a4-9536-4652-8047-977aedb8fc00" width=300 height=600></td>
+    <td><img src="https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/1a35930f-55ec-4836-a8c9-316e093d5f08" width=300 height=600></td>
   </tr>
 </table>
 <p id="description">This is my personal portfolio website showcasing my project skills and experiences. Built using HTML CSS and JavaScript this interactive website highlights my work and provides visitors with an insight into my professional journey.</p>
 
 <h2>🚀 Demo</h2>
 
-[drishtant.me](https://drishtant.me/)
+[Drishtant.me](https://drishtant.me/)
 
   
   
