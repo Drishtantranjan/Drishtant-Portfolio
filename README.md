@@ -1,7 +1,8 @@
 <h1 align="center" id="title">Portfolio Website</h1>
 
 
-![Available on (5)](https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/d7a55893-ab1f-4be4-b473-645f015cd18b) ![Untitled_design__23_-removebg-preview](https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/5eaf551b-05e7-4f68-b3a0-21a51950c655)
+![Available on (5)](https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/d7a55893-ab1f-4be4-b473-645f015cd18b)
+![Untitled_design__23_-removebg-preview](https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/5eaf551b-05e7-4f68-b3a0-21a51950c655)
 
 
 <p id="description">This is my personal portfolio website showcasing my projects skills and experiences. Built using HTML CSS and JavaScript this interactive website highlights my work and provides visitors with an insight into my professional journey.</p>
