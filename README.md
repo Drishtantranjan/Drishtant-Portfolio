@@ -1,5 +1,5 @@
 <h1 align="center" id="title">Portfolio Website</h1>
-![Available on (5)](https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/eb25ef6f-a797-495b-a116-934b94fc1a6e)
+![Available](https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/eb25ef6f-a797-495b-a116-934b94fc1a6e)
 
 
 <p id="description">This is my personal portfolio website showcasing my projects skills and experiences. Built using HTML CSS and JavaScript this interactive website highlights my work and provides visitors with an insight into my professional journey.</p>
