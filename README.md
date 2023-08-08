@@ -1,5 +1,5 @@
 <h1 align="center" id="title">Portfolio Website</h1>
-![Untitled_design__23_-removebg-preview](https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/1a35930f-55ec-4836-a8c9-316e093d5f08)
+
 
 
 
