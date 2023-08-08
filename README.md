@@ -4,7 +4,7 @@
 <table>
   <tr>
      <td><img src="https://user-images.githubusercontent.com/77199373/206863238-8755c561-9a3c-4051-addb-a02a0ce5602e.jpg" width=620 height=620></td>
-    <td><img src="https://user-images.githubusercontent.com/77199373/206803824-219c9b4d-2369-4ef0-97f0-253a06ec9eef.jpg" width=340 height=620></td>
+    <td><img src="https://user-images.githubusercontent.com/77199373/206803824-219c9b4d-2369-4ef0-97f0-253a06ec9eef.jpg" width=300 height=600></td>
 
   </tr>
 
