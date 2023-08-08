@@ -1,11 +1,12 @@
 <h1 align="center" id="title">Portfolio Website</h1>
 
 
-![Available on (5)](https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/d7a55893-ab1f-4be4-b473-645f015cd18b)
-![Untitled_design__23_-removebg-preview](https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/5eaf551b-05e7-4f68-b3a0-21a51950c655)
+<div style="display: flex;">
+  <img src="https://example.com/image1.jpg" alt="Image 1" style="width: 50%; max-width: 500px; padding: 10px; box-sizing: border-box;">
+  <img src="[https://example.com/image2.jpg" alt="Image 2](https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/17115a6e-e359-4be3-b44d-cc4423f88189)" style="width: 50%; max-width: 500px; padding: 10px; box-sizing: border-box;">
+</div>
 
-
-<p id="description">This is my personal portfolio website showcasing my projects skills and experiences. Built using HTML CSS and JavaScript this interactive website highlights my work and provides visitors with an insight into my professional journey.</p>
+<p id="description">This is my personal portfolio website showcasing my project skills and experiences. Built using HTML CSS and JavaScript this interactive website highlights my work and provides visitors with an insight into my professional journey.</p>
 
 <h2>🚀 Demo</h2>
 
