@@ -4,12 +4,8 @@
 <table>
   <tr>
      <td><img src="https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/e288b024-1f8f-41c6-8a5f-ad28fc05a718" width=620 height=620></td>
-    
     <td><img src="https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/f41a14a4-9536-4652-8047-977aedb8fc00" width=300 height=600></td>
-
-
   </tr>
-
 </table>
 <p id="description">This is my personal portfolio website showcasing my project skills and experiences. Built using HTML CSS and JavaScript this interactive website highlights my work and provides visitors with an insight into my professional journey.</p>
 
