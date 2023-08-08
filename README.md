@@ -1,11 +1,19 @@
 <h1 align="center" id="title">Portfolio Website</h1>
 
 
-<div style="display: flex;">
-  <img src="https://example.com/image1.jpg" alt="Image 1" style="width: 50%; max-width: 500px; padding: 10px; box-sizing: border-box;">
-  <img src="[https://example.com/image2.jpg" alt="Image 2](https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/17115a6e-e359-4be3-b44d-cc4423f88189)" style="width: 50%; max-width: 500px; padding: 10px; box-sizing: border-box;">
-</div>
-
+<table>
+  <tr>
+     <td><img src="https://user-images.githubusercontent.com/77199373/206863238-8755c561-9a3c-4051-addb-a02a0ce5602e.jpg" width=340 height=620></td>
+    <td><img src="https://user-images.githubusercontent.com/77199373/206803824-219c9b4d-2369-4ef0-97f0-253a06ec9eef.jpg" width=340 height=620></td>
+     <td><img src="https://user-images.githubusercontent.com/77199373/206803831-1df6129a-9562-4c8a-9438-b3db4666f5e1.jpg" width=340 height=620></td>
+  </tr>
+  <tr>
+     <td><img src="https://user-images.githubusercontent.com/77199373/206803837-a1b07ca0-b6f5-4172-b477-3f285868a12c.jpg" width=340 height=620></td>
+    <td><img src="https://user-images.githubusercontent.com/77199373/206803844-b3a55096-05d5-4f9c-a9d3-42d9c709b723.jpg" width=340 height=620></td>
+    <td><img src="https://user-images.githubusercontent.com/77199373/206803851-9fca841c-a6bc-4fe7-917b-a98d6fb72d97.jpg" width=340 height=620></td>
+  
+ </tr>
+</table>
 <p id="description">This is my personal portfolio website showcasing my project skills and experiences. Built using HTML CSS and JavaScript this interactive website highlights my work and provides visitors with an insight into my professional journey.</p>
 
 <h2>🚀 Demo</h2>
