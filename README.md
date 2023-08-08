@@ -1,5 +1,5 @@
 <h1 align="center" id="title">Portfolio Website</h1>
-
+<p id="description">This is my personal portfolio website showcasing my project skills and experiences. Built using HTML CSS and JavaScript this interactive website highlights my work and provides visitors with an insight into my professional journey.</p>
 
 
 
@@ -9,7 +9,7 @@
     <td><img src="https://github.com/Drishtantranjan/Drishtant-Portfolio/assets/84273332/1a35930f-55ec-4836-a8c9-316e093d5f08" width=300 height=620></td>
   </tr>
 </table>
-<p id="description">This is my personal portfolio website showcasing my project skills and experiences. Built using HTML CSS and JavaScript this interactive website highlights my work and provides visitors with an insight into my professional journey.</p>
+
 
 <h2>🚀 Demo</h2>
 
